@@ -51,7 +51,7 @@ The calculator GUI will launch and is ready for use.
 ![Calculator UI](Screenshots/Data%20input.png)
 
 ### 🧮 Sample Input and Output
-![Input Example](Screenshots/Data%20input.png)
+![Input Example](Screenshots/Result.png)
 
 ## 🙌 Acknowledgments
 
